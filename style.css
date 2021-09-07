@@ -138,6 +138,7 @@ body{
 
 .menu ul li ul li a:hover{
     background-color: rgb(182, 179, 179);
+    color: #D2A23A !important;	
 }
 .menu ul li ul li a::before {
     display: none;
